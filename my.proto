@@ -1,0 +1,7 @@
+syntax="proto3";
+
+package my.proto;
+
+message MyMessage {
+    int32 my_field = 1;
+}
